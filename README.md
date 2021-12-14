@@ -3,7 +3,7 @@
 <h5> Husband, father and Developer under construction!:construction:</h5>
 
 <div style="display: flex; Align-itens: center; widht: 100rem">
-   <table>
+   <table border="2">
     <tr>
      <td>- 👀 HTML, CSS, JS (take a look in my directories)<br>
      <td>- 🌱 Now Studing JS, bootstrap and Linux in DIO Bothcamp
