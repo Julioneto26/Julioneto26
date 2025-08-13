@@ -42,16 +42,16 @@ Meu Primeiro Projeto em Programação foi em 2008, de maneira autodidata aprendi
 
 <!--Header-->
 <h2> 👋 Hi, I’m @Julioneto26 </h2>
-<h5> Husband, father and Developer under construction!:construction:</h5>
+<h5> Developer, husband and father :</h5>
 
 <div style="display: flex; Align-itens: center; widht: 100rem">
    <table border="2">
     <tr>
-     <td>- 👀 HTML, CSS, JS (take a look in my directories)<br>
-     <td>- 🌱 Now Studing JS, bootstrap and Linux in DIO Bothcamp
+     <td>- 👀 Java, Kotlin, Spring, JS, Wordpress, Linux (take a look in my directories)<br>
+     <td>- 🌱 Now majoring in systems analysis, Java and Spring in other courses. 
     </tr>
      <td>- 💞️ Intermediate english language - (i'm improve it)<br>
-     <td>- 🏃🏽‍♂️ In Career Transition.
+     <td>- 🏃🏽‍♂️ Html, Css, Wordpress, Javascript, Sql, NoSql, C, POO ...
     </tr>
   </table>
 </div>
